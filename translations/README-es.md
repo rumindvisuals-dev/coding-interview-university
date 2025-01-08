@@ -243,8 +243,9 @@ Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuita
 
 ## Prepárese para la entrevista
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-	- [x] [Resumen](resumen-1.md)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+	- [x] [Resumen 1](resumen-1.md)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+	- [x]  [Resumen 2](resumen-2.md)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
